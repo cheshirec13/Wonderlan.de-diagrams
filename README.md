@@ -1,1 +1,1 @@
-# Wonderland.de-diagrams
+# Wonderland.de diagrams
